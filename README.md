@@ -1,9 +1,4 @@
-- 👋 Olá, eu sou @AqueleGabrielLa
-- 👀 Eu tenho interesse em desenvolvimento web e programação: HTML, CSS, JavaScript, C, Python, Git;
-- 📫 contato: https://www.linkedin.com/in/gabriel-arcanjo-61a562206
-- Atualmente estou aprendendo HTML, CSS e JS, e em linguagens de programação, estou aprendendo C, C++ e PHP.
+Olá! Meu nome é Gabriel Arcanjo e sou um estudante de Ciências da Computação da UEPB.
+Cursado o Técnico em Informática no IFPB possuo amplo conhecimento na área de programação e resolução de problemas em linguagens como C++, PHP e Python.
 
-<!---
-AqueleGabrielLa/AqueleGabrielLa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Busco sempre aprender coisas novas e tenho a ambição de me tornar um desenvolvedor web e trabalhar com a linguagem de programação Java!
